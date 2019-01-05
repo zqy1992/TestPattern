@@ -9,6 +9,8 @@ public class Singleton {
     private static String s46 = "234";
     private static String s47= "234";
     private static String s48 = "234";
+    private static String s489 = "234";
+    private static String s4810 = "234";
 
 
     public static Singleton getInstanceFromHolder(){
