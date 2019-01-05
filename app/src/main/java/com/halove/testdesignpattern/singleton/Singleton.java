@@ -14,6 +14,7 @@ public class Singleton {
     private static String s48102= "234";
     private static String s48101 = "234";
     private static String s481501 = "234";
+    private static String v21 = "234";
 
 
     public static Singleton getInstanceFromHolder(){
