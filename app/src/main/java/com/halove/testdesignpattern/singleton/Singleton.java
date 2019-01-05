@@ -4,6 +4,7 @@ public class Singleton {
     private static Singleton mInstance = null;
     private static String s = "2";
     private static String s3 = "23";
+    private static String s34 = "234";
 
 
     public static Singleton getInstanceFromHolder(){
